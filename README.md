@@ -11,7 +11,6 @@ Two tables were extracted from the Premier League webpage for the 2020-2021 socc
 
 I saved the data as csv files in resources as 'PLGoalsWeb' and 'PLSalaryWeb.'
 ![WebStats](https://user-images.githubusercontent.com/89876905/132050317-1b9198d5-897c-4018-8c47-a384bf50c2c5.PNG)
-![WebStats](https://user-images.githubusercontent.com/89876905/132050336-c2850f2e-3414-4014-b882-8101f1cbe826.PNG)
 
 Transformation
 
