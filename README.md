@@ -39,6 +39,7 @@ Secondly, I filtered the data to obtain top highest paid player per position, as
 ![AnalysisSecond](https://user-images.githubusercontent.com/89876905/132050829-ff1aab39-8976-472a-a259-ec604b9059d0.PNG)
 
 Lastly, I created a bar chart that compares the highest paid players per position, including forwards, midfielders, defenders, and keepers. The bar chart reflected the filtered result and confirmed the assumption by illustrating that Gareth Bale, a forward, is indeed the league's highest paid player.
+
 ![AnalysisThird](https://user-images.githubusercontent.com/89876905/132050890-a1c40fc8-a43c-4a50-a7ed-58932903ebee.PNG)
 
 II. Top Ten Least Cost-Efficient Forwards
