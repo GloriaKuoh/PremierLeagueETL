@@ -1,1 +1,1 @@
-password='Blessed1!4ever!'
+password='password123'
